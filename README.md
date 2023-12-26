@@ -1,7 +1,5 @@
 <h1 align="center">Hi there! I'm Victoria 👋🏼</h1>
 
-<br>
-
 ### About Me
 - 😄 **Pronouns:** she/her
 - 👩🏻‍🎓 **Life status:** I graduated in June 2023 with a Master's in Environmental Data Science from UCSB and I'm now working here at EV Realty where I'm making an equitable and positive environmental impact helping to optimize electric fleet operations.

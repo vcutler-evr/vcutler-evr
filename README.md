@@ -3,7 +3,7 @@
 ### About Me
 - 😄 **Pronouns:** she/her
 - 👩🏻‍💻 **Life status:** I graduated in June 2023 with a Master's in Environmental Data Science from UCSB and I'm now working here at EV Realty where I'm making an equitable and positive environmental impact helping to optimize electric fleet operations.
-- 🔭 **I’m currently working on:** A couple of different projects! Check out my [personal website](https://victoriacutler.github.io/posts.html) for some interesting data science projects. PSA: I'm still working on getting everything up.
+- 🔭 **I’m currently working on:** A couple of different projects! Check out my [personal website](https://victoriacutler.github.io/posts.html) for some interesting data science projects. All typos intended.
 - 📫 **How to reach me:** Feel free to shoot me an email about anything and everything data science and commercial EV related: victori@evrealtyus.com
 
 ### Education
